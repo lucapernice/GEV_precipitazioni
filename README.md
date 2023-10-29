@@ -1,2 +1,2 @@
-# GEV_precipitazioni
-Extreme Value Theory - Dataset Gemona del Friuli
+
+I dati sono stati ottenuti dalla piattaforma del Sistema nazionale per l’elaborazione e diffusione di dati climatici (http://www.scia.isprambiente.it). Si tratta di quattro serie temporali: la serie delle precipitazioni massime orarie in millimetri su periodo mensile; la serie delle temperature medie mensili in gradi Celsius; la serie dell’umidità relativa media mensile; la serie delle velocità medie del vento mensili in metri al secondo. Tutte e quattro le serie datano le osservazione dal 01/2000 sino al 12/2018, registrate presso la stazione meteorologica di Gemona del Friuli (Udine). 
