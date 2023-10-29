@@ -1,6 +1,4 @@
 
-# File README per l'Analisi Esplorativa del Dataset Gemona e fit dei modelli
-
 ## Panoramica
 
 Questo file README fornisce un'illustrazione del codice R utilizzato per l'analisi esplorativa e fit dei modelli sui dati nel dataset Gemona. Il codice si concentra sull'analisi e la modellazione di quattro serie temporali meteorologiche: precipitazioni massime orarie, temperature medie mensili, umidità relativa media mensile e velocità media del vento mensile. Questi dati sono stati ottenuti dalla piattaforma del Sistema nazionale per l’elaborazione e diffusione di dati climatici disponibile su [scia.isprambiente.it](http://www.scia.isprambiente.it). Le osservazioni coprono il periodo dal 01/2000 al 12/2018 e sono state registrate presso la stazione meteorologica di Gemona del Friuli (Udine).
